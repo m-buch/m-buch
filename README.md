@@ -2,7 +2,7 @@
 
 **A software engineer by day ☼ and a builder of side projects by night ☾**
 
-B.S. Computer Science & Human & Organizational Development, Vanderbilt University.
+B.S. Computer Science & HOD, Vanderbilt University.
 
 * ⚙️ I use daily: **Python, C++, Java, JavaScript, Vue**
 * 🌍 I’m most active in open-source side projects (plugins, web apps, tools)
