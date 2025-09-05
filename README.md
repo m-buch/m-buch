@@ -4,7 +4,7 @@
 
 B.S. Computer Science & Human & Organizational Development, Vanderbilt University.
 
-* ⚙️ I use daily: Python, C++, Java, JavaScript, Vue
+* ⚙️ I use daily: **Python, C++, Java, JavaScript, Vue**
 * 🌍 I’m most active in open-source side projects (plugins, web apps, tools)
 * 💡 Interested in: system design, performance optimization, user experience
-* 💬 ```ping``` me about reverse engineering, game systems, backend design, or tech + people
+* 💬 ```ping``` me about **reverse engineering, game systems, backend design, or tech + people**
